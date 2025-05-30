@@ -246,8 +246,10 @@ CLERK_SECRET_KEY=your_clerk_secret_key
 
 ## Conclusion
 
-This backend implementation provides a robust foundation for our "Chat with PDF" application. It handles file uploads, processes PDFs to extract and store embeddings, and uses AI to generate responses based on the PDF content and user questions.
+This backend setup creates a strong base for our "Chat with PDF" application. It manages file uploads, processes PDFs to extract and store embeddings, and uses AI to generate responses based on the PDF content and user questions.
 
-The use of queues ensures that PDF processing happens asynchronously, providing a better user experience. The vector store allows for efficient semantic search of PDF content, and the AI model generates natural language responses based on the retrieved context.
+Using queues ensures that PDF processing happens asynchronously, which improves the user experience. The vector store enables efficient semantic searches of PDF content, and the AI model creates natural language responses based on the retrieved context.
 
-In a production environment, you would want to add error handling, logging, and possibly caching to improve performance and reliability.
+In a production setting, you should add error handling, logging, and possibly caching to enhance performance and reliability.
+
+Check the full code here: [https://github.com/showoff-today/chat-with-pdf](https://github.com/showoff-today/chat-with-pdf)
