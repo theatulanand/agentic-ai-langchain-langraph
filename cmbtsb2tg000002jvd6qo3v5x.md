@@ -1,7 +1,7 @@
 ---
 title: "Life Lessons from the Fractional Knapsack Problem"
-seoTitle: "Life Lessons from the DSA"
-seoDescription: "Today, I was solving a Data Structures and Algorithms (DSA) problem called the Fractional Knapsack Problem, and it got me thinking. Yeh problem sirf coding."
+seoTitle: "Fractional Knapsack: Life Lessons and Insights"
+seoDescription: "Prioritize value, embrace partial efforts, respect limits, seize opportunities, and simplify approach learned from the Fractional Knapsack Problem"
 datePublished: Thu Jun 12 2025 19:41:21 GMT+0000 (Coordinated Universal Time)
 cuid: cmbtsb2tg000002jvd6qo3v5x
 slug: life-lessons-from-the-fractional-knapsack-problem
@@ -67,4 +67,4 @@ Instead, take a step back and optimize. Break your goals into simple steps. Want
 
 Solving the Fractional Knapsack Problem today wasn’t just about coding it was a reminder of how to live smarter. Prioritize what matters, take small steps, respect your limits, grab good opportunities, and keep things simple. Yeh lessons coding se shuru hue, par zindagi ke har area mein kaam aayenge.
 
-So, next time you’re stuck on a DSA problem or feeling overwhelmed in life, yaad rakhna: **apna knapsack wisely bharo!** What’s one thing you’re going to prioritize today? Let me know your views in the comments, and let’s keep learning together!
+So, next time you're stuck on a DSA problem or feeling overwhelmed in life, remember: **fill your knapsack wisely!** What's one thing you're going to prioritize today? Share your thoughts in the comments, and let's keep learning together!
